@@ -7,7 +7,7 @@ const About = () => {
         {/* Bagian Foto */}
         <div className="flex justify-center">
           <img
-            src="src/assets/images/myphoto.jpeg" // Ganti dengan path foto Anda
+            src="myphoto.jpeg" // Ganti dengan path foto Anda
             alt="My Profile"
             className="w-80 h-80 object-cover rounded-full shadow-2xl border-8 border-teal-500 transform transition-all duration-500 hover:scale-105"
           />

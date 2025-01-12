@@ -7,21 +7,21 @@ const Projects = () => {
       description:
         "Sistem pendataan yang mempermudah pengelolaan data anggota dan kegiatan organisasi Tapak Suci.",
       technologies: ["Laravel", "Bootstrap", "Mysql", "Jquery"],
-      image: "src/assets/images/tapaksuciapp.png",
+      image: "tapaksuciapp.png",
     },
     {
       title: "Sistem Pakar Analisa Stres",
       description:
         "Aplikasi untuk membantu menganalisa tingkat stres siswa SMK secara efisien menggunakan metode sistem pakar.",
       technologies: ["Laravel", "Bootstrap", "Mysql"],
-      image: "src/assets/images/sistempakar.png",
+      image: "sistempakar.png",
     },
     {
       title: "Online Barbershop Booking",
       description:
         "Website untuk memesan jadwal potong rambut secara online dengan fitur pilihan layanan dan waktu.",
       technologies: ["Laravel", "Bootstrap", "Mysql"],
-      image: "src/assets/images/rdbarbershop.png",
+      image: "rdbarbershop.png",
     },
   ];
 
