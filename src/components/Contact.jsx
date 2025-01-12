@@ -42,7 +42,7 @@ const Contact = () => {
             <FaEnvelope className="text-5xl" />
           </a>
           <a
-            href="https://wa.me/088271676183" // Ganti dengan nomor WhatsApp Anda
+            href="https://wa.me/6288271676183" // Ganti dengan nomor WhatsApp Anda
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-teal-300 transition duration-300"
